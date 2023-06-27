@@ -11,7 +11,7 @@ Este repositório contém uma aplicação simples feita na aula de Javascritp do
 
 ## Capturas de Tela
 
-![Screenshot](../screenshot.png)
+![Screenshot](screenshot.png#vitrinedev)
 
 ## Tecnologias Utilizadas
 
